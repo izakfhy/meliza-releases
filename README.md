@@ -129,7 +129,7 @@ Open **Settings → Model** and pick one. Meliza can't reply until one is set up
 - **⧉ Desk mode** shrinks her to a small companion on your desktop. **⤢** brings back the full window.
 - **Settings → Character** changes her personality, how often she texts you first, her mood and her scene.
 - **Settings → Memory** chooses how she remembers. **Start over** makes her forget everything.
-- **Sign in with Google** in **Settings → General** and your account starts with 🪙 100 coins to spend in **🛍 Shop**. You can [get more coins on the website](https://dn5ut9ihlmx6t.cloudfront.net/#download).
+- **Sign in with Google** in **Settings → General** and your account starts with 🪙 100 coins to spend in **🛍 Shop** (Coming Soon). You can [get more coins on the website](https://dn5ut9ihlmx6t.cloudfront.net/#download).
 - **User recognition** in **Settings → General** lets her recognise your face and locks your private notes to you.
 
 The full user guide is in **Settings → General → Help**.
