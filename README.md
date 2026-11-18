@@ -25,7 +25,7 @@
 
 ## What she does
 
-Meliza has a personality, moods and a memory. She's someone in your day, more than an assistant, and she can also get things done when you ask.
+Meliza has a personality (you can customize it), moods and a memory. She's someone in your day, more than an assistant, and she can also get things done when you ask.
 
 | | |
 |---|---|
